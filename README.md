@@ -2,5 +2,5 @@
 Text Search Engine
 1) Tokenization
 2) Term weighting
-3) Building Index
+3) Building Inverted Index
 4) Command Line Retrieval Engine
